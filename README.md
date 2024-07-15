@@ -30,6 +30,9 @@ pip install sklearn
 The tutorial is divided into several sections:
 
 I. Regular Expression
+
+- Basic tricks about REGEX (Regular expression)
+
 II. Word Embedding
 - Removing HTML Tags
 - Unicode Normalization
